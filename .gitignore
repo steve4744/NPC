@@ -9,3 +9,7 @@
 # Maven
 log/
 target/
+/bin/
+.classpath
+.project
+.settings/
